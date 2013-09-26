@@ -79,6 +79,8 @@ rpms:
     - mysql
     - ruby-mysql
     - mysql-server
+pips:
+  - MySQL-python
 gems:
   pkgs:
     - pg
